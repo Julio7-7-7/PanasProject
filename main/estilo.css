@@ -1,0 +1,17 @@
+body{
+    background: url(../imgs/fondo.png);
+    background-size: auto;
+}
+.headboard{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    text-align: center;
+    background-color: rgba(7, 7, 7, 0.445);
+}
+h1{
+    text-align: center;
+    color: rgb(108, 130, 226);
+}
+.images{
+    width: 200px;
+}
