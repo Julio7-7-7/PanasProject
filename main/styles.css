@@ -4,8 +4,6 @@ body{
 }
 .headboard{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
-    text-align: center;
     background-color: rgba(7, 7, 7, 0.445);
 }
 h1{
@@ -15,6 +13,6 @@ h1{
 .images{
     width: 100px;
 }
-footer{
-    padding-bottom: 100px;
+.products{
+    text-align: center;
 }
